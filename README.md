@@ -2,6 +2,7 @@
 porfolio-landing
 
 Write the project description here...
+This is week one independent project. covers custom styling and indentation
 
 
 ## Technologies Used

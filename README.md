@@ -1,5 +1,5 @@
 # Project-Name
-porfolio-landing
+MYPORTFOLIO
 
 Write the project description here...
 This is week one independent project. covers custom styling and indentation
@@ -8,6 +8,7 @@ This is week one independent project. covers custom styling and indentation
 ## Technologies Used
 
 - Add technologies you may have used in the project e.g HTML & CSS (Bootstrap)
+
 html,css,bootstrap
 
 

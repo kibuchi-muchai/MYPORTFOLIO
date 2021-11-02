@@ -15,6 +15,9 @@ html,css,bootstrap
 ##### Setup Instructions and Installation
 
 - Explain steps to clone, install and run the application on a local machine.
+- git clone https://github.com/kibuchi-muchai/MYPORTFOLIO
+- select repository location
+- git remote add https://github.com/kibuchi-muchai/MYPORTFOLIO
 
 
 ## Development

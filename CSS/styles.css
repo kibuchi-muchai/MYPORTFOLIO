@@ -24,3 +24,19 @@ h7{
     text-decoration: underline;
     text-transform: capitalize;
 }
+#container{
+    float: left;
+}
+body {
+    font-family: sans-serif;
+  }
+  @media screen and (min-width: 768px) {
+    body {
+      background-color: yellowgreen;
+    }
+    .column {
+      width: 220px;
+      float: left;
+      padding: 15px;
+    }
+  }
